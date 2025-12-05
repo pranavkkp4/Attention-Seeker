@@ -1,0 +1,7 @@
+Attention Seeker Project Report
+===============================
+
+Number of windows: 3194
+Pearson correlation between Attention Score and Outside Factors: -0.012
+Regression R²: 1.000, MAE: 0.000
+Classification accuracy: 0.469, F1: 0.315, AUC: 0.544
