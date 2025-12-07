@@ -1,7 +1,7 @@
 ```markdown
 Attention Seeker  
 A Machine Learning Framework for Quantifying Human Attention Using Wearable Sensor Data  
-Authors: Pranav Kaliaperumal & Kevin Jacobs
+Authors: Pranav Kaliaperumal & Kevin Jacob
 
 
 
