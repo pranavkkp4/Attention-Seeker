@@ -1,0 +1,20 @@
+# Core numerical + data processing
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+
+# Plotting and visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Machine learning
+scikit-learn==1.4.2
+
+# Jupyter / notebooks
+jupyter==1.0.0
+notebook==7.2.0
+ipykernel==6.29.4
+
+# Utilities (often pulled in as deps, but pinned here for reproducibility)
+python-dateutil==2.9.0.post0
+pytz==2024.1
